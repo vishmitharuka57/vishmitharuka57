@@ -1,4 +1,4 @@
-<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
+<img src="https://technowebsolutions.in/wp-content/uploads/2019/05/Software-Development-Banner-123-1500x450.jpg">
 # 💫 About Me:
 🔭I'm currently working on My web site<br>🌱I'm currently learning GDSE- Graduated Diploma in Software Engineering at Institute of Java and Software Engineering -IJSE.<br>⚡  Ask me about JAVA , CSS , HTML , Arduino , PHP<br>📫How to reach me tharukavishmipk24@gmail.com<br>
 
